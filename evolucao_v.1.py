@@ -1,5 +1,3 @@
-#! python
-
 class Humano:
     # atributo de classe
     # esse atributo de Classe é compartilhado por todas as instãncias

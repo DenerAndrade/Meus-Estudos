@@ -1,4 +1,4 @@
-#! python
+
 def fibonacci(sequencia=[0, 1]):
     # Uso de mutáveis com o valor default (armadilha)
     # somando as posições da lista

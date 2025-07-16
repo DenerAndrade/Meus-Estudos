@@ -1,11 +1,9 @@
 # Validando existência do argumento
-#! python
-
 # primeira forma de exibir o indice 0
 from math import pi  # importando o pi do MATH
 # importei a Função (Sys) para poder digitar na linha de comando do TERMINAL
 import sys
-# import errno 
+# import errno
 
 
 def circulo(raio):

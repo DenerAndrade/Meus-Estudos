@@ -1,4 +1,4 @@
-#! python
+
 def tag(tag, *args, **kwargs):
     if 'html_class' in kwargs:
         # removendo o 'html_class' e retornando no 'class' a partir do .pop

@@ -1,4 +1,4 @@
-#! python
+
 from datetime import datetime
 from loja import Vendedor, Cliente, Compra
 

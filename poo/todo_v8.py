@@ -1,4 +1,3 @@
-#! python
 from datetime import datetime, timedelta
 
 
@@ -103,7 +102,7 @@ def main():
     except TarefaNãoEncontrada as e:
         print(f'A causa foi "{str(e)}"!')
     finally:
-        print('"finally" Sempre sera executado')    
+        print('"finally" Sempre sera executado')
 
     casa.procurar('Passar roupa').concluir()
     # for tarefa in casa.tarefas:

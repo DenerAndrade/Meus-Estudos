@@ -1,4 +1,4 @@
-#! python
+
 
 arquivo = open('pessoas.csv')
 for registro in arquivo:

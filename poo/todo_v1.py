@@ -1,4 +1,4 @@
-#! python
+
 from datetime import datetime
 
 
@@ -12,7 +12,7 @@ class Tarefa:
         self.feito = True
 
     def __str__(self):
-        return self.descricao + ('(Concluída) ' if self.feito else " ")
+        return self.descricao + ('(Concluida) ' if self.feito else " ")
 
 
 def main():

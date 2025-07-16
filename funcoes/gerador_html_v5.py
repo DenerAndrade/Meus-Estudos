@@ -1,4 +1,4 @@
-#! python
+
 
 bloco_atrs = ('bloco_accesskey', 'bloco_id')
 ul_atrs = ('ul_id', 'ul_style')
@@ -6,7 +6,8 @@ ul_atrs = ('ul_id', 'ul_style')
 
 def filtrar_atrs(informados, suportados):
     # ''.join para concatenar /
-    # k.split("_")[-1] para acessar somente a ultima parte da chave -> accesskey
+    # k.split("_")[-1] para acessar somente a ultima parte da chave ->
+    # accesskey
     return ' '.join(f'{k.split("_")[-1]}="{v}"'
                     for k, v in informados.items() if k in suportados)
 

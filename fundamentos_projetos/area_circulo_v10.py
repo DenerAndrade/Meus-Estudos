@@ -1,5 +1,5 @@
 # OBETENDO ARGUMENTO VIA TERMINAL /PASSANDO VALOR DO RAIO NO PRÓPIO TERMINAL
-#! python
+
 from math import pi  # importando o pi do MATH
 # importei a Função (Sys) para poder digitar na linha de comando do TERMINAL
 import sys

@@ -1,6 +1,5 @@
-#! python
-
 # HERANÇA MULTIPLA
+
 class Animal:
     @property
     def capacidades(self):

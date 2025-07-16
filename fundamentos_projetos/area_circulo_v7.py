@@ -1,5 +1,5 @@
 
-#! python
+
 from math import pi  # importando o pi do MATH
 
 

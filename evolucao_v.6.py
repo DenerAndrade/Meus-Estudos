@@ -1,4 +1,3 @@
-#! python
 from abc import ABCMeta, abstractmethod
 
 

@@ -1,4 +1,3 @@
-#! python
 
 def cal_preco_final(preco_bruto, cal_imposto, **params):
     return preco_bruto + preco_bruto * cal_imposto(**params)

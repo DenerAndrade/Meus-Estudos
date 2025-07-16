@@ -1,5 +1,4 @@
 # Validando existência do argumento
-#! python
 
 # primeira forma de exibir o indice 0
 from math import pi  # importando o pi do MATH

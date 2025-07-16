@@ -1,4 +1,4 @@
-#! python
+
 class potencia:
     # Calcula uma pontencia especifica
     def __init__(self, expoente):

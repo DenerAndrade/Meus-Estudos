@@ -1,4 +1,3 @@
-#! python
 # with de forma automatica fecha o arquivo sem ter a necessidade de chamar..
 # arquivo.close()
 with open('pessoas.csv') as arquivo:
